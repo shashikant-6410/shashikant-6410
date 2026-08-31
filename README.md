@@ -24,38 +24,25 @@
 - 🔹 REST API-based service communication
 - 🔹 Authentication & authorization
 - 🔹 Database-driven booking workflow
-- 🔹 Dockerized services & cloud deployment
+- 🔹 RabbitMQ for asynchronous communication
 
 **Tech:** `Node.js` `Express.js` `Sequelize` `MySQL` `Rabbitmq`
 
-[🔗 View Project](YOUR_GITHUB_REPO_LINK)
+[🔗 View Project]([YOUR_GITHUB_REPO_LINK](https://github.com/shashikant-6410/Flight-Booking-App))
 
 
-### 🍱 FoodRescue
-> A platform connecting food providers with collectors to help reduce food waste.
+### 🩺 CareConnect
+> A full-stack telemedicine platform enabling patients to discover doctors, manage appointments, and connect through real-time chat and video consultations.
 
-- 🔹 Role-based authentication
-- 🔹 Provider, Collector & Admin workflows
-- 🔹 JWT-based authentication
-- 🔹 REST APIs
-- 🔹 Full-stack web application
+- 🔹 Role-based authentication for doctors & patients
+- 🔹 Appointment booking & management
+- 🔹 payment integration
+- 🔹 Video consultation
+- 🔹 RESTful backend APIs
 
-**Tech:** `React` `Node.js` `Express.js` `MongoDB` `JWT`
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `WebSockets` `WebRTC` `JWT` `Razorpay`
 
-[🔗 View Project](YOUR_GITHUB_REPO_LINK)
-
-
-### 💻 Project Name
-> Short one-line description of what the project does.
-
-- 🔹 Key feature
-- 🔹 Key technical implementation
-- 🔹 Interesting engineering aspect
-
-**Tech:** `React` `Node.js` `MongoDB`
-
-[🔗 View Project](YOUR_GITHUB_REPO_LINK)
-
+[🔗 View Project]([YOUR_GITHUB_REPO_LINK](https://github.com/shashikant-6410/CareConnect))
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=shashikant-6410&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
