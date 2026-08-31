@@ -1,3 +1,10 @@
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Shashikant Yadav <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Giphy"></h1>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+%7C+Learning+%7C+Growing" alt="Typing SVG">
+</div>
+
 # 💫 About Me:
 - 🔭 Building **full-stack & backend applications**<br>- 🌱 Currently learning **System Design, DSA & Scalable Backend Architecture**<br>- 💬 Ask me about web dev, backend systems & the chaos behind the code<br>- 🚀 Interested in **Software Engineering & Backend Development**<br>-⚡ Fun fact: I enjoy listening to music and occasionally pretending I can sing 🎶
 
