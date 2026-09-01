@@ -28,7 +28,7 @@
 
 **Tech:** `Node.js` `Express.js` `Sequelize` `MySQL` `Rabbitmq`
 
-[🔗 View Project]([YOUR_GITHUB_REPO_LINK](https://github.com/shashikant-6410/Flight-Booking-App))
+[🔗 View Project](https://github.com/shashikant-6410/Flight-Booking-App)
 
 
 ### 🩺 CareConnect
@@ -42,7 +42,7 @@
 
 **Tech:** `React` `Node.js` `Express.js` `MongoDB` `WebSockets` `WebRTC` `JWT` `Razorpay`
 
-[🔗 View Project]([YOUR_GITHUB_REPO_LINK](https://github.com/shashikant-6410/CareConnect))
+[🔗 View Project](https://github.com/shashikant-6410/CareConnect)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=shashikant-6410&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true)<br/>
